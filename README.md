@@ -1,0 +1,2 @@
+# caffe_ssd_windows
+在windows平台下基于caffe实现ssd算法
